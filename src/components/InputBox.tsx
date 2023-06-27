@@ -29,7 +29,7 @@ function InputBox() {
 
   return (
     <>
-      <div className="m-5 border border-dark rounded">
+      <div className="m-3 border border-dark rounded">
         <div className="input-group p-3">
           <input
             type="text"

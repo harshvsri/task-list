@@ -6,7 +6,7 @@ interface Props {
 function List({ list, onClick }: Props) {
   return (
     <>
-      <div className="m-5">
+      <div className="m-3">
         {list.map((item, index) => (
           <div
             className="alert alert-warning alert-dismissible fade show"
